@@ -38,5 +38,5 @@ Start the server
 ```
 
   
-![Logo](https://i.imgur.com/xsJmjnU.gif)
+![GIF](https://i.imgur.com/xsJmjnU.gif)
 
