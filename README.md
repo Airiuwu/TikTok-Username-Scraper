@@ -25,7 +25,7 @@ Install dependencies
   python -m pip install TikTokApi
 ```
 
-Edit config (Please see GIF below)
+Edit config (Please press Imgur icon below)
 
 ```bash
   nano config.py
