@@ -37,6 +37,5 @@ Start the server
   python checkTikTokUsers.py
 ```
 
-[![portfolio]](https://i.imgur.com/xsJmjnU.gif)
 ![GIF](https://i.imgur.com/xsJmjnU.gif)
 
