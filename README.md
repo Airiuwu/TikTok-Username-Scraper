@@ -31,7 +31,7 @@ Edit config (Please press Imgur icon below)
   nano config.py
 ```
 
-Start the server
+Start the check
 
 ```bash
   python checkTikTokUsers.py
